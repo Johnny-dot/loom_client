@@ -1,0 +1,247 @@
+//英雄表
+(() => {
+    window.g_Table = window.g_Table || {};
+    g_Table.tbHero = {
+        1001: {
+            shape: "Angry_Kobold",
+            stand: "Stand",
+            attack: "Attack",
+            hurt: "BeiJi",
+            desc: "每次出手50%再攻击一次",
+            priority: 1,
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        1002: {
+            shape: "AooDing",
+            stand: "stand",
+            attack: "Attack",
+            hurt: "Wound",
+            desc: "每次出手50%击晕目标",
+            priority: 2,
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        1003: {
+            shape: "Assassin",
+            stand: "BattleStand",
+            attack: "Attack",
+            hurt: "Wound",
+            desc: "每次出手增加20%暴击率",
+            priority: 3,
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        1004: {
+            shape: "BaHaMuTe",
+            stand: "Stand",
+            attack: "Attack",
+            hurt: "BeiJi",
+            desc: "每次出手无视30%目标防御",
+            priority: 4,
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        1005: {
+            shape: "Boar",
+            stand: "Stand",
+            attack: "Attack",
+            hurt: "BeiJi",
+            desc: "每次出手吸血20%",
+            priority: 5,
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        1006: {
+            shape: "CannibalRat_Guard_2",
+            stand: "Stand",
+            attack: "Attack",
+            hurt: "BeiJi",
+            priority: 6,
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        1007: {
+            shape: "CannibalRat_Guard",
+            stand: "Stand",
+            attack: "Attack",
+            hurt: "Wound",
+            priority: 7,
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        1008: {
+            shape: "CannibalRat_O",
+            stand: "Stand",
+            attack: "Attack",
+            hurt: "Wound",
+            priority: 8,
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        1009: {
+            shape: "CannibalRat_Sodier",
+            stand: "Stand",
+            attack: "Attack",
+            hurt: "Wound",
+            priority: 9,
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        1010: {
+            shape: "CannibalRat_Worship",
+            stand: "Stand",
+            attack: "Attack",
+            hurt: "Wound",
+            priority: 10,
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        1011: {
+            shape: "Captain",
+            stand: "Stand",
+            attack: "Attack",
+            hurt: "BeiJi",
+            priority: 11,
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        1012: {
+            shape: "WuKong",
+            stand: "Stand",
+            attack: "Attack",
+            hurt: "BeiJi",
+            priority: 12,
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        2000: {
+            shape: "XieMo",
+            stand: "Walk_A",
+            attack: "Attack_C",
+            hurt: "Attack_D",
+            move: "Walk_A",
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+        2001: {
+            shape: "Anger",
+            stand: "Attack",
+            attack: "Attack",
+            prop: {
+                hp: 100,
+                mp: 100,
+                maxHp: 100,
+                maxMp: 100,
+                attack: 30,
+                defence: 5,
+                consumption: 10,
+            },
+            story: "BahaMyTe是来自侏罗纪时期的巨龙物种，它属性为火，一个炎龙吐息就能将一片村庄淹没在火海中，美中不足的是它行为迟缓。"
+        },
+    }
+})()

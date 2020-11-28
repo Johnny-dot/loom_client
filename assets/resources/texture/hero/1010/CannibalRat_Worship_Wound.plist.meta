@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "485caa41-ce06-401e-9465-afdcf1b08c95",
+  "rawTextureUuid": "c07c746c-743d-4b62-9014-34cf67df7200",
+  "size": {
+    "width": 232,
+    "height": 132
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "CannibalRat_Worship_Wound_1.png": {
+      "ver": "1.0.4",
+      "uuid": "4c952b0f-9846-46aa-938c-b7b9e272b40c",
+      "rawTextureUuid": "c07c746c-743d-4b62-9014-34cf67df7200",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 230,
+      "height": 130,
+      "rawWidth": 230,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

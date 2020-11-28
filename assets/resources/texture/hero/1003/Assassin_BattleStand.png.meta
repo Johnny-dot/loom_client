@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0a790b54-1151-4ed3-a15d-e68ee58a5c44",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1134,
+  "height": 446,
+  "platformSettings": {},
+  "subMetas": {
+    "Assassin_BattleStand": {
+      "ver": "1.0.4",
+      "uuid": "699292d9-85a4-48f7-8d8d-a4be3814acea",
+      "rawTextureUuid": "0a790b54-1151-4ed3-a15d-e68ee58a5c44",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 26,
+      "offsetY": -11,
+      "trimX": 113,
+      "trimY": 44,
+      "width": 960,
+      "height": 380,
+      "rawWidth": 1134,
+      "rawHeight": 446,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

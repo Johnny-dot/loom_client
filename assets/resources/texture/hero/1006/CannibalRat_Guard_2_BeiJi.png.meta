@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d31f9a67-4cf6-41e1-9f1e-f4e8b6df83d6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 262,
+  "height": 172,
+  "platformSettings": {},
+  "subMetas": {
+    "CannibalRat_Guard_2_BeiJi": {
+      "ver": "1.0.4",
+      "uuid": "044607db-21fb-4cf7-8dda-545f6dfe943b",
+      "rawTextureUuid": "d31f9a67-4cf6-41e1-9f1e-f4e8b6df83d6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8,
+      "offsetY": -7,
+      "trimX": 17,
+      "trimY": 17,
+      "width": 212,
+      "height": 152,
+      "rawWidth": 262,
+      "rawHeight": 172,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

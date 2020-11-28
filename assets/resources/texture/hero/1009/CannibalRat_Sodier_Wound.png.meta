@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e10bae3a-19d6-4278-bb8c-ea2ce6933608",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 202,
+  "height": 122,
+  "platformSettings": {},
+  "subMetas": {
+    "CannibalRat_Sodier_Wound": {
+      "ver": "1.0.4",
+      "uuid": "89b46696-1a67-4efa-8deb-8406e027d001",
+      "rawTextureUuid": "e10bae3a-19d6-4278-bb8c-ea2ce6933608",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -13.5,
+      "offsetY": -3,
+      "trimX": 19,
+      "trimY": 13,
+      "width": 137,
+      "height": 102,
+      "rawWidth": 202,
+      "rawHeight": 122,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

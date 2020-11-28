@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c07c746c-743d-4b62-9014-34cf67df7200",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 232,
+  "height": 132,
+  "platformSettings": {},
+  "subMetas": {
+    "CannibalRat_Worship_Wound": {
+      "ver": "1.0.4",
+      "uuid": "2e563259-6b62-45dd-9a3c-3f0d17ed30a6",
+      "rawTextureUuid": "c07c746c-743d-4b62-9014-34cf67df7200",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -13.5,
+      "offsetY": -9.5,
+      "trimX": 39,
+      "trimY": 24,
+      "width": 127,
+      "height": 103,
+      "rawWidth": 232,
+      "rawHeight": 132,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

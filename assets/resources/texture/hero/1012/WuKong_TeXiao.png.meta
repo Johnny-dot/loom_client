@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "8cbc8359-533e-46a6-b217-ae2b7115f9e6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 614,
+  "height": 152,
+  "platformSettings": {},
+  "subMetas": {
+    "WuKong_TeXiao": {
+      "ver": "1.0.4",
+      "uuid": "de5aca9f-fdfe-4aae-9ac8-d05a5ea7e3f2",
+      "rawTextureUuid": "8cbc8359-533e-46a6-b217-ae2b7115f9e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": 0,
+      "trimX": 13,
+      "trimY": 0,
+      "width": 594,
+      "height": 152,
+      "rawWidth": 614,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

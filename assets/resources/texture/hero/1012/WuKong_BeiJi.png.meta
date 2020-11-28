@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7e266b97-9c88-48cb-a689-6ae527c5d781",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 242,
+  "height": 242,
+  "platformSettings": {},
+  "subMetas": {
+    "WuKong_BeiJi": {
+      "ver": "1.0.4",
+      "uuid": "a46997d9-c1be-4393-89cd-50a92e65d7f8",
+      "rawTextureUuid": "7e266b97-9c88-48cb-a689-6ae527c5d781",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -51,
+      "offsetY": 18.5,
+      "trimX": 9,
+      "trimY": 8,
+      "width": 122,
+      "height": 189,
+      "rawWidth": 242,
+      "rawHeight": 242,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

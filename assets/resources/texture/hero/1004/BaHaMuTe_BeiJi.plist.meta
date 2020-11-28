@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "d1dada4f-afe7-4014-b192-5c8e7c982a0a",
+  "rawTextureUuid": "7eedeccd-a1e9-4cce-9df8-0885169238cc",
+  "size": {
+    "width": 302,
+    "height": 242
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "BaHaMuTe_BeiJi_1.png": {
+      "ver": "1.0.4",
+      "uuid": "8d1f3569-600f-4a03-b3f9-5299f9b17207",
+      "rawTextureUuid": "7eedeccd-a1e9-4cce-9df8-0885169238cc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 300,
+      "height": 240,
+      "rawWidth": 300,
+      "rawHeight": 240,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

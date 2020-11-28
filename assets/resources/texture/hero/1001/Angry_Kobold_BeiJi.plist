@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>Angry_Kobold_BeiJi_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{220,140}</string>
+                <key>spriteSourceSize</key>
+                <string>{220,140}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{220,140}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>Angry_Kobold_BeiJi.png</string>
+            <key>size</key>
+            <string>{222,142}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:67dbbe8fe128c15788dde10b063d9a22:61f44d90fcf9d9e63af43c69e707184d:311407c43f7f511a3dd71536e1232aa9$</string>
+            <key>textureFileName</key>
+            <string>Angry_Kobold_BeiJi.png</string>
+        </dict>
+    </dict>
+</plist>

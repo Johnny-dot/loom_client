@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "f295161f-5974-4713-a4fb-228c7454963e",
+  "rawTextureUuid": "2e7dc804-42b1-491d-a565-95f7ad66bb8e",
+  "size": {
+    "width": 222,
+    "height": 142
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "Angry_Kobold_BeiJi_1.png": {
+      "ver": "1.0.4",
+      "uuid": "f2088469-132c-49e4-9f3e-3bdce813b635",
+      "rawTextureUuid": "2e7dc804-42b1-491d-a565-95f7ad66bb8e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 220,
+      "height": 140,
+      "rawWidth": 220,
+      "rawHeight": 140,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e7819de5-dc0f-45a8-9ef4-dee06c6e2ce4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 232,
+  "height": 1204,
+  "platformSettings": {},
+  "subMetas": {
+    "CannibalRat_Worship_Attack": {
+      "ver": "1.0.4",
+      "uuid": "303910dd-c07c-4866-a009-8d02186b5123",
+      "rawTextureUuid": "e7819de5-dc0f-45a8-9ef4-dee06c6e2ce4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": -7,
+      "trimX": 13,
+      "trimY": 18,
+      "width": 209,
+      "height": 1182,
+      "rawWidth": 232,
+      "rawHeight": 1204,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

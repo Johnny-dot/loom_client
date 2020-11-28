@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "7e2a357b-583b-422c-944e-386e7db20b6d",
+  "rawTextureUuid": "80cb876e-2005-407b-94b1-e0ab13bea66f",
+  "size": {
+    "width": 252,
+    "height": 202
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "CannibalRat_Guard_Wound_1.png": {
+      "ver": "1.0.4",
+      "uuid": "90995105-5689-4f6d-bd15-745596318111",
+      "rawTextureUuid": "80cb876e-2005-407b-94b1-e0ab13bea66f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 250,
+      "height": 200,
+      "rawWidth": 250,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

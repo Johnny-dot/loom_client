@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7b58323c-3a2b-4c93-b4c4-8cd027d193e7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1438,
+  "height": 406,
+  "platformSettings": {},
+  "subMetas": {
+    "AngelWing": {
+      "ver": "1.0.4",
+      "uuid": "c1dda5b1-b787-4c37-a58a-8378084b8b00",
+      "rawTextureUuid": "7b58323c-3a2b-4c93-b4c4-8cd027d193e7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -5,
+      "trimX": 0,
+      "trimY": 29,
+      "width": 1438,
+      "height": 358,
+      "rawWidth": 1438,
+      "rawHeight": 406,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

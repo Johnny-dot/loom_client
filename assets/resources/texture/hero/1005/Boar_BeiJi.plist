@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>Boar_BeiJi_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{200,190}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,190}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{200,190}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>Boar_BeiJi.png</string>
+            <key>size</key>
+            <string>{202,192}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:62b5f399a605ee8555ec9723b8efda3e:c24020b5d48b251bd1d23aa0b40ae1dc:ba29c9bc755d4aca085d01ad96d99bd5$</string>
+            <key>textureFileName</key>
+            <string>Boar_BeiJi.png</string>
+        </dict>
+    </dict>
+</plist>

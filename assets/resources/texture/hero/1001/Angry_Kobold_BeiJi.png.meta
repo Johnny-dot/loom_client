@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2e7dc804-42b1-491d-a565-95f7ad66bb8e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 222,
+  "height": 142,
+  "platformSettings": {},
+  "subMetas": {
+    "Angry_Kobold_BeiJi": {
+      "ver": "1.0.4",
+      "uuid": "e84936dd-39c3-48d2-8af6-4ddcc033570b",
+      "rawTextureUuid": "2e7dc804-42b1-491d-a565-95f7ad66bb8e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -32.5,
+      "offsetY": -14.5,
+      "trimX": 6,
+      "trimY": 32,
+      "width": 145,
+      "height": 107,
+      "rawWidth": 222,
+      "rawHeight": 142,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

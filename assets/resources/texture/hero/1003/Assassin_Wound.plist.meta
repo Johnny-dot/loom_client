@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "f5cbe4ee-909a-4a7e-b9d5-f1a1df268b53",
+  "rawTextureUuid": "cd8dc58c-6d20-4545-82b8-741cbb6563c7",
+  "size": {
+    "width": 202,
+    "height": 162
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "Assassin_Wound_1.png": {
+      "ver": "1.0.4",
+      "uuid": "b6b11d7c-1589-47d7-aefb-fc8d368e63a6",
+      "rawTextureUuid": "cd8dc58c-6d20-4545-82b8-741cbb6563c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 200,
+      "height": 160,
+      "rawWidth": 200,
+      "rawHeight": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "d34e65fd-1432-4511-834b-725a609e29c2",
+  "rawTextureUuid": "7e266b97-9c88-48cb-a689-6ae527c5d781",
+  "size": {
+    "width": 242,
+    "height": 242
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "WuKong_BeiJi_1.png": {
+      "ver": "1.0.4",
+      "uuid": "ae825990-735e-45b4-99f1-3eb199163dee",
+      "rawTextureUuid": "7e266b97-9c88-48cb-a689-6ae527c5d781",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 240,
+      "height": 240,
+      "rawWidth": 240,
+      "rawHeight": 240,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

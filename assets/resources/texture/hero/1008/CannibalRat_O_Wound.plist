@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>CannibalRat_O_Wound_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{180,210}</string>
+                <key>spriteSourceSize</key>
+                <string>{180,210}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{180,210}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>CannibalRat_O_Wound.png</string>
+            <key>size</key>
+            <string>{182,212}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:b0a794bafb37f9511b158666966a6154:bc5f68fbbf4717a978e899f97c10d3b9:145b0de403646d35e1ad94e022ce6ea2$</string>
+            <key>textureFileName</key>
+            <string>CannibalRat_O_Wound.png</string>
+        </dict>
+    </dict>
+</plist>

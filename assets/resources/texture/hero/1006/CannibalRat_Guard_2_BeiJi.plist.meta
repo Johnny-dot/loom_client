@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "ff13693e-ec40-43f8-952b-9067c583f1bc",
+  "rawTextureUuid": "d31f9a67-4cf6-41e1-9f1e-f4e8b6df83d6",
+  "size": {
+    "width": 262,
+    "height": 172
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "CannibalRat_Guard_2_BeiJi_1.png": {
+      "ver": "1.0.4",
+      "uuid": "0f654447-9253-4f22-b27f-ae601ab933c4",
+      "rawTextureUuid": "d31f9a67-4cf6-41e1-9f1e-f4e8b6df83d6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 260,
+      "height": 170,
+      "rawWidth": 260,
+      "rawHeight": 170,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

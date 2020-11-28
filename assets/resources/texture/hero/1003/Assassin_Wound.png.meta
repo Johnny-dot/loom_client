@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "cd8dc58c-6d20-4545-82b8-741cbb6563c7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 202,
+  "height": 162,
+  "platformSettings": {},
+  "subMetas": {
+    "Assassin_Wound": {
+      "ver": "1.0.4",
+      "uuid": "2dd4007b-28dc-41db-9f2c-9a93d0bd526d",
+      "rawTextureUuid": "cd8dc58c-6d20-4545-82b8-741cbb6563c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8.5,
+      "offsetY": -8,
+      "trimX": 52,
+      "trimY": 36,
+      "width": 81,
+      "height": 106,
+      "rawWidth": 202,
+      "rawHeight": 162,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

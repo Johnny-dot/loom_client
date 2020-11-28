@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "09e6cba7-a342-4f82-addc-f551df50e14d",
+  "rawTextureUuid": "e10bae3a-19d6-4278-bb8c-ea2ce6933608",
+  "size": {
+    "width": 202,
+    "height": 122
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "CannibalRat_Sodier_Wound_1.png": {
+      "ver": "1.0.4",
+      "uuid": "5b1c1620-5730-4029-94ce-43945a7c80f3",
+      "rawTextureUuid": "e10bae3a-19d6-4278-bb8c-ea2ce6933608",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 200,
+      "height": 120,
+      "rawWidth": 200,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

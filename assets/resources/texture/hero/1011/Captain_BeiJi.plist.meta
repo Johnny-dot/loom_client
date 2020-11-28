@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "68c4b3ec-3dca-4c12-9036-08a528ba8b09",
+  "rawTextureUuid": "9c2ccdf7-a9d0-444c-8997-051099075d71",
+  "size": {
+    "width": 232,
+    "height": 182
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "Captain_BeiJi_1.png": {
+      "ver": "1.0.4",
+      "uuid": "4ffde320-b230-4d43-b272-45439fcb6b02",
+      "rawTextureUuid": "9c2ccdf7-a9d0-444c-8997-051099075d71",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 230,
+      "height": 180,
+      "rawWidth": 230,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>WuKong_BeiJi_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{240,240}</string>
+                <key>spriteSourceSize</key>
+                <string>{240,240}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{240,240}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>WuKong_BeiJi.png</string>
+            <key>size</key>
+            <string>{242,242}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:51e37f678c9d1d2a942f9b086dc9f88c:eb0181cae8573febaf773cfd5879b9ea:8eb58347cf02a85023d8e0762fbd7449$</string>
+            <key>textureFileName</key>
+            <string>WuKong_BeiJi.png</string>
+        </dict>
+    </dict>
+</plist>

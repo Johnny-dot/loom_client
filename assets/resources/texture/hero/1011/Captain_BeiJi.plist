@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>Captain_BeiJi_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{230,180}</string>
+                <key>spriteSourceSize</key>
+                <string>{230,180}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{230,180}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>Captain_BeiJi.png</string>
+            <key>size</key>
+            <string>{232,182}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:e8f6a4baddbba9dddfeb1b4abe96da6d:c36265dc6b2ed4a8e28811e986a0b8ba:770d5e466ba08dd28e32c62dd0f1a78d$</string>
+            <key>textureFileName</key>
+            <string>Captain_BeiJi.png</string>
+        </dict>
+    </dict>
+</plist>
